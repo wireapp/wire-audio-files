@@ -1,0 +1,13 @@
+{
+  "homepage": "https://github.com/wireapp/wire-audio-files",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "GPL-3.0",
+  "name": "wire-audio-files",
+  "private": true
+}
