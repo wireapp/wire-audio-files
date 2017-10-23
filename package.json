@@ -1,0 +1,12 @@
+{
+  "files": [
+    "webapp/"
+  ],
+  "license": "GPL-3.0",
+  "name": "@wireapp/webapp-audio-files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wireapp/wire-audio-files.git"
+  },
+  "version": "1.0.0"
+}
